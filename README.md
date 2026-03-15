@@ -12,8 +12,8 @@
 
 ## 설정
 
-- [FAQ](https://github.com/dvgodoy/FineTuningLLMs/blob/main/FAQ.md)
-- [부록 A - GPU 포드 설정하기](https://github.com/dvgodoy/FineTuningLLMs/blob/main/AppendixA.md)
+- [FAQ](https://github.com/rickiepark/fine-tuning-llm/blob/main/FAQ.md)
+- [부록 A - GPU 포드 설정하기](https://github.com/rickiepark/fine-tuning-llm/blob/main/AppendixA.md)
 
 ## 구글 코랩
 
