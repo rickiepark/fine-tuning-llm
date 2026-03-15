@@ -10,16 +10,11 @@
   </strong>
 </p>
 
-## 설정
-
-- [FAQ](https://github.com/rickiepark/fine-tuning-llm/blob/main/FAQ.md)
-- [부록 A - GPU 포드 설정하기](https://github.com/rickiepark/fine-tuning-llm/blob/main/AppendixA.md)
-
 ## 구글 코랩
 
 코랩을 사용하면 **깃허브에서 노트북을 쉽게 불러와서** 구글이 제공하는 **GPU**로 실행할 수 있습니다. 이를 위해서는 본인 구글 계정에 로그인되어 있어야 합니다.
 
-아래 링크를 사용해 이미 각 장의 노트북을 실행할 수 있습니다.
+아래 링크를 사용해 코랩에서 각 장의 노트북을 실행할 수 있습니다.
 
 - [0장 - 대규모 언어 모델 미세 튜닝 레시피](https://colab.research.google.com/github/rickiepark/fine-tuning-llm/blob/main/Chapter0.ipynb)
 - [1장 - 대규모 언어 모델](https://colab.research.google.com/github/rickiepark/fine-tuning-llm/blob/main/Chapter1.ipynb)
